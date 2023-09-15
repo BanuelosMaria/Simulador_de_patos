@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\bin\Debug\Patrón_Strategy_Duck.exe.config
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\bin\Debug\Patrón_Strategy_Duck.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\bin\Debug\Patrón_Strategy_Duck.pdb
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\obj\Debug\Patrón_Strategy_Duck.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\obj\Debug\Patrón_Strategy_Duck.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\obj\Debug\Patrón_Strategy_Duck.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patrón_Strategy_Duck\Patrón_Strategy_Duck\obj\Debug\Patrón_Strategy_Duck.pdb
